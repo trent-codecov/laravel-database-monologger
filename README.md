@@ -6,7 +6,6 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/montross50/laravel-database-monologger.svg?style=flat-square)](https://packagist.org/packages/montross50/laravel-database-monologger)
 
 This package will log errors into a database instead storage/log/laravel.log file.
-
 ### Installation
 
 ~~~
